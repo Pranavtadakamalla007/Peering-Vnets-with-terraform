@@ -1,7 +1,7 @@
-hub_subscription_id  = "083eabbe-c1c6-4b19-86c6-07fe61ac3858"
-sub1_subscription_id  = "083eabbe-c1c6-4b19-86c6-07fe61ac3858"
-sub2_subscription_id = "811a556c-f1a5-407f-b3b3-90c53ec639a1"
-sub3_subscription_id = "539723c6-53a1-4c47-95c5-b246a952a420"
+hub_subscription_id  = "<Sub-id-of-hub>"
+sub1_subscription_id  = "<Sub1-id>"
+sub2_subscription_id = "<Sub2-id>"
+sub3_subscription_id = "<Sub3-id>"
 
 vnets = {
   hub = {
